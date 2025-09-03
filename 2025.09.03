@@ -1,3 +1,4 @@
+有序列表
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,6 +24,7 @@
 </body>
 </html>
 
+无序列表
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,5 +47,48 @@
         <li>谭聪喜欢哥哥</li>
         <li>哥哥喜欢谭聪</li>
     </ul>
+</body>
+</html>
+
+表格
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p></p>
+    <table border="1" width="300px" height="200px">
+        <tr>
+            <td colspan="3">谭聪1 谭聪2 谭聪3</td>
+        </tr>
+        <tr>
+           <td rowspan="2">谭聪4 谭聪7</td> 
+           <td>谭聪5</td> 
+           <td>谭聪6</td> 
+        </tr>
+        <tr>
+           <td>谭聪8</td>
+           <td>谭聪9</td>
+        </tr>
+    </table>
+</body>
+</html>
+
+form表单
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <input>
+        <input type="submit">
+    </form>
 </body>
 </html>
