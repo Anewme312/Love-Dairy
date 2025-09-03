@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ol type="A">
+        <li>
+            我是谭聪
+            <ol type="a">
+                <li>22岁的谭聪</li>
+                <li>23岁的谭聪</li>
+                <li>24岁的谭聪</li>
+                <li>25岁的谭聪</li>
+            </ol>
+        </li>
+        <li>我是哥哥的谭聪</li>
+        <li>谭聪喜欢哥哥</li>
+        <li>哥哥喜欢谭聪</li>
+    </ol>
+</body>
+</html>
